@@ -14,23 +14,26 @@ Aclaracion el diagrama UML esta en
 
 
 //MEMBER
+
 	Nombre: "Gaspar";
 	Apellido: "O";
 	Numero de Identificacion: 1;
 
 //MEMBER VIP
+
 	Nombre: "Sebastian";
 	Apellido: "L";
 	Numero de Identificacion: 2;
 	Costo mensual:  200.1;
-	//this->setMembersVIP(s04, s05, s06, s07);
   
 //Libro 1
+
 	Nombre: "Narnia";
 	Autor: "Juan";
 	ISBN: 1234;
 
 //Ejemplares del libro 1
+
 	Numero de edicion: 1;
 	Locacion: "A550";
 	Disponibilidad: true;
@@ -45,11 +48,13 @@ Aclaracion el diagrama UML esta en
 
 
 //Libro 2
+
 	Nombre: "The Way of Kings";
 	Autor: "Pablo";
 	ISBN: 5678;
 
 //Ejemplares del libro 2
+
 	Numero de edicion: 1;
 	Locacion: "A440";
 	Disponibilidad: true;
