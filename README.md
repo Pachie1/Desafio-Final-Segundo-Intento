@@ -25,12 +25,12 @@ Aclaracion el diagrama UML esta en
 	Costo mensual:  200.1;
 	//this->setMembersVIP(s04, s05, s06, s07);
   
-//*Libro 1*/
+//Libro 1
 	Nombre: "Narnia";
 	Autor: "Juan";
 	ISBN: 1234;
 
-//*Ejemplares del libro 1*/
+//Ejemplares del libro 1
 	Numero de edicion: 1;
 	Locacion: "A550";
 	Disponibilidad: true;
@@ -44,12 +44,12 @@ Aclaracion el diagrama UML esta en
 	Disponibilidad: true;
 
 
-//*Libro 2*/
+//Libro 2
 	Nombre: "The Way of Kings";
 	Autor: "Pablo";
 	ISBN: 5678;
 
-//*Ejemplares del libro 2*/
+//Ejemplares del libro 2
 	Numero de edicion: 1;
 	Locacion: "A440";
 	Disponibilidad: true;
